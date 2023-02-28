@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoi.lib", "TowersOfHanoi.lib\TowersOfHanoi.lib.csproj", "{DB2A3AE5-CF5C-4ED5-A842-79C3193D0059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoi.gui", "TowersOfHanoi.gui\TowersOfHanoi.gui.csproj", "{4F607EBD-9254-4C99-8374-871F6E45E3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoi.test", "TowersOfHanoi.test\TowersOfHanoi.test.csproj", "{E193F0E9-617C-4187-9CBD-3C1EA5FDD434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2A3AE5-CF5C-4ED5-A842-79C3193D0059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2A3AE5-CF5C-4ED5-A842-79C3193D0059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2A3AE5-CF5C-4ED5-A842-79C3193D0059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2A3AE5-CF5C-4ED5-A842-79C3193D0059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F607EBD-9254-4C99-8374-871F6E45E3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F607EBD-9254-4C99-8374-871F6E45E3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F607EBD-9254-4C99-8374-871F6E45E3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F607EBD-9254-4C99-8374-871F6E45E3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E193F0E9-617C-4187-9CBD-3C1EA5FDD434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E193F0E9-617C-4187-9CBD-3C1EA5FDD434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E193F0E9-617C-4187-9CBD-3C1EA5FDD434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E193F0E9-617C-4187-9CBD-3C1EA5FDD434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
